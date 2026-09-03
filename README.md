@@ -1,6 +1,7 @@
 # HR Employee Dashboard (Factwise Assignment)
 
 A responsive, high-performance internal employee management dashboard built with **React**, **AG Grid**, **Tailwind CSS**, and **React Context API**.
+<img width="1867" height="907" alt="image" src="https://github.com/user-attachments/assets/0fa902a7-f186-49e9-b7bc-0e6bedeab65e" />
 
 ---
 
